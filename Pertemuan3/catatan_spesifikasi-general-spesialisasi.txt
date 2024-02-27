@@ -1,0 +1,19 @@
+TEKPRO_Teori - Pertemuan 3
+
+CLASSIFICATION merupakan suatu upaya untuk mengidentifikasi dan mengategorikan objek yang mirip kedalam suatu kelas
+contoh : - hiu, pari, nila di klasifikasikan kedalam kelas IKAN
+	 - innova, jass, brio di klasifikasikan kedalam kelas MOBIL
+
+GENERALIZATION merupakan suatu upaya untuk mencari kemiripkan dari sekumpulan kelas dan mengidentifikasikan kemiripan tersebut kedalam suatu kelas yang lebih umum (superclass)
+atau upaya untuk membentuk SuperClass
+
+SPECIALIZATION merupakan suatu upaya untuk mencari perbedaan dari sekumpulan kelas dan membentuk suatu subclass yang bersifat unik/berbeda dengan kelas lainya 
+
+
+*HIRARKI ORGANISASI KELAS*
+ABSTRAK CLASS 
+- digunakan untuk mengimplementasikan superclass, bersifat lebih abstrak dan tidak dapat diintansikan menjadi sebuah objek
+- minimal ada 1 method yang abstrak
+
+CONCRETE CLASS
+- digunakan untuk mengeimplementasikan subclass, dapat diisntansikan menjadi sebuah objek

@@ -1,0 +1,15 @@
+Konsep Abstraksi
+
+Abstraksi merupakan metode untuk menggenerelisasi dan biasanya menggunakan cara induktif untuk mengidentifikasi serta memperoleh sebuah perilaku atau pola, dan juga bisa mengidentifikasi prinsip umum untuk menghasilkan pola trend dan keteraturan
+
+Abstraksi merupakan proses presentasi data serta program dalam bentuk yang sama dengan menyembunyikan rincian atau detail implementasi. proses abstraksi menyembunyikan detail supaya programmer akan fokus terhadap konsep tertentu saja dalam satu waktu
+
+Abstraksi adalah proses penyerderhanan suatu objek atau fenomena dengan cara mengabaikan detail yang tidak relevan. dan untuk fokus pada inti dari suatu konsep tanpa harus memahami semua detail teknis yang terlibat
+
+
+ada beberapa tingkatan abstraksi yang digunakan dalam pemograman
+- tingkatan abstraksi terendah adalah bahasa mesin yang terdiri dari serangkaian instruksi biner yang dimengerti oleh komputer namun bahasa mesin sangat sulit dipahami oleh manusia karna terlalu teknis
+
+tujuan melakukan abstaksi yaitu untuk mengetahui informasi penting dan menyingkirkan informasi tidak penting sehingga seseorang bisa menggunakan informasi penting tersebut untuk menyelesaikan persoalan atau masalah atau dengan kata lain berarti mampu memilah informasi penting dengan tepat
+
+Contoh sederhananya dalam melakukan proses abstraksi yaitu ketika kita berada di sebuah ruangan yang di dalamnya terdapat banyak benda dan ingin mencari buku dalam ruangan tersebut, tentu mata kita hanya akan fokus kepada benda yang berhubungan dengan buku serta mengabaikan benda-benda lain di sekitarnya seperti mainan, meja makan, kasur dan benda lainnya yang ada di sekitar kita.
