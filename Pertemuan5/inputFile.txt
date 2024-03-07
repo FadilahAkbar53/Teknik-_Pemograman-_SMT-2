@@ -1,0 +1,23 @@
+Manager
+Store A
+Fadilah
+20000.0 
+4000.0 
+20.0   
+50.0 
+200.0 
+Sales Associate 
+Store A
+Fanza
+10000.0 
+4000.0  
+20.0
+20.0
+Shift
+Store XYZ
+John Doe
+10.0
+40.0
+15.0
+200.0
+

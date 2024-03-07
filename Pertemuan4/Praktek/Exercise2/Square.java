@@ -1,12 +1,12 @@
 package Praktek.Exercise2;
 
 public class Square extends Rectangle{
-    // Construktor no arg
+    // Construktor tanpa parameter
     public Square(){
         super();
     }
 
-    // Construktor with double side
+    // Construktor parameter double side
     public Square(double side){
         super(side, side);
     }
@@ -16,7 +16,6 @@ public class Square extends Rectangle{
         super.setLength(side);
         super.setWidth(side);
     }
-    
     public double getSide(){
         return super.getLength();
     }
@@ -36,6 +35,17 @@ public class Square extends Rectangle{
     //override methode toString
     @Override
     public String toString(){
-        return ("A Square with side = " + getSide() +  " , which is a subclass of " + super.toString());
+        return ("A Square with side = " + getSide() +  " , which is a subclass of ");
+    }
+
+    public static void main(String[] args) {
+        Square square = new Square();
+    String p = square.toString();
+    double luas,keliling;
+    System.out.println(p);
+    keliling = square.getPerimeter();
+    luas = square.getArea();
+    System.out.println("Keliling = " + keliling);
+    System.out.println("Luas = "+luas);
     }
 }

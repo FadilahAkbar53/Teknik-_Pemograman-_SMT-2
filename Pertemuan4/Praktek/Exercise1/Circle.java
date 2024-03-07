@@ -5,7 +5,7 @@ package Praktek.Exercise1;
 public class Circle { // Save as "Circle.java"
  // private instance variable, not accessible from outside this class
  protected double radius;
- private String color;
+ private String color; //atribute baru dengan nama color bertipe string
  
  // Constructors (overloaded)
  /** Constructs a Circle instance with default value for radius and color */

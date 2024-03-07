@@ -1,0 +1,41 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+Total salary for managers: $315000.0
+******************************************************
+1. Manager Details:
+Store Details: Store A
+Employee Name: Fadilah
+Base Pay: $20000.0
+Number of Hours worked: 4000.0hrs
+Payment Rate per hour: $20.0/hr
+Total Sales in store: $200.0
+Sales done: $50.0
+Percentage of sales done: 25.00%
+Gross Payment: $101000.0
+Remaining store revenue: $-99819.72
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+Total salary for sales associates: $183000.0
+******************************************************
+Store Details: Store A
+Employee Name: Fanza
+Base Pay: $10000.0
+Number of Hours worked: 4000.0hrs
+Payment Rate per hour: $20.0/hr
+Sales Rate: 2000.0%
+Bonus Pay: $500.0
+Total commission: $1000.0
+Gross Payment: $91000.0
+******************************************************
+Number of employees working as SHIFT MANAGERS are: 1
+Total salary for shift managers: $611.0
+******************************************************
+1. Shift Manager Details:
+Store Details: Store XYZ
+Employee Name: John Doe
+Base Pay: $10.0
+Number of Hours worked: 40.0hrs
+Payment Rate per hour: $15.0/hr
+Shift Manager: 200.0
+Gross Payment: $610.0
+Bonus Pay: $1.0

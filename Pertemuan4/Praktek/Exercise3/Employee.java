@@ -1,5 +1,4 @@
 package Praktek.Exercise3;
-
 abstract class Sortable{ 
     public abstract int compare(Sortable b);
     public static void shell_sort(Sortable[] a){ 
@@ -12,8 +11,9 @@ abstract class Sortable{
                 int j;
                for (j = i; j >= gap && a[j - gap].compare(temp) < 0; j -= gap){ 
                     a[j] = a[j - gap];
-                    a[j] = temp;
                 }
+                    a[j] = temp;
+
             }
         }
     }
@@ -48,6 +48,7 @@ class Employee extends Sortable{
         return hireyear;
     }
 
+    @Override //dari class Sortable
     public int compare(Sortable b){
         Employee eb = (Employee) b;
         if (salary<eb.salary) return -1;
